@@ -1,0 +1,24 @@
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+// Create a hash map to store the number and its index
+
+        map<int,int> map;  
+        int n = nums.size();
+    // Traverse the vector
+
+        for(int i=0;i<n;i++){
+        int num = nums[i];
+        int x = target - num;
+
+    // Check if the complement exists in the hash map
+        if(map.find(x) != map.end()){
+            //if it does,then return the indices
+            return {map[x],i};
+        }
+        // else add current number and its index to the map
+        map[num]=i;
+    }
+    return {-1,-1};
+    }
+};
