@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/joeNeham8/LeetCode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/joeNeham8/LeetCode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/joeNeham8/LeetCode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/joeNeham8/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/joeNeham8/LeetCode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/joeNeham8/LeetCode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/joeNeham8/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/joeNeham8/LeetCode/tree/master/0125-valid-palindrome) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/joeNeham8/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
