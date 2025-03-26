@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/joeNeham8/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/joeNeham8/LeetCode/tree/master/0242-valid-anagram) |
 | [1894-merge-strings-alternately](https://github.com/joeNeham8/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Memoization
 |  |
@@ -46,8 +47,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/joeNeham8/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/joeNeham8/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/joeNeham8/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/joeNeham8/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
