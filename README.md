@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/joeNeham8/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/joeNeham8/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/joeNeham8/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/joeNeham8/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/joeNeham8/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/joeNeham8/LeetCode/tree/master/0055-jump-game) |
 | [0768-partition-labels](https://github.com/joeNeham8/LeetCode/tree/master/0768-partition-labels) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/joeNeham8/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Stack
 |  |
 | ------- |
