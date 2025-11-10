@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/joeNeham8/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/joeNeham8/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/joeNeham8/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/joeNeham8/LeetCode/tree/master/0053-maximum-subarray) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/joeNeham8/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/joeNeham8/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/joeNeham8/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/joeNeham8/LeetCode/tree/master/0242-valid-anagram) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/joeNeham8/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/joeNeham8/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
