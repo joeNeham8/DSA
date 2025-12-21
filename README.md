@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/joeNeham8/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/joeNeham8/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/joeNeham8/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/joeNeham8/LeetCode/tree/master/0070-climbing-stairs) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/joeNeham8/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/joeNeham8/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/joeNeham8/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/joeNeham8/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/joeNeham8/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Trie
 |  |
