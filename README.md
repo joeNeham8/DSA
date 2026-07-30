@@ -4,17 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/joeNeham8/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/joeNeham8/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/joeNeham8/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/joeNeham8/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/joeNeham8/LeetCode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/joeNeham8/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1013-fibonacci-number](https://github.com/joeNeham8/LeetCode/tree/master/1013-fibonacci-number) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/joeNeham8/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/joeNeham8/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/joeNeham8/LeetCode/tree/master/0015-3sum) |
@@ -37,8 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/joeNeham8/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/joeNeham8/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/joeNeham8/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/joeNeham8/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/joeNeham8/LeetCode/tree/master/0045-jump-game-ii) |
@@ -48,20 +49,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/joeNeham8/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joeNeham8/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/joeNeham8/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/joeNeham8/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1013-fibonacci-number](https://github.com/joeNeham8/LeetCode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0231-power-of-two](https://github.com/joeNeham8/LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/joeNeham8/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/joeNeham8/LeetCode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/joeNeham8/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1013-fibonacci-number](https://github.com/joeNeham8/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/joeNeham8/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/joeNeham8/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/joeNeham8/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -73,8 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/joeNeham8/LeetCode/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/joeNeham8/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/joeNeham8/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/joeNeham8/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/joeNeham8/LeetCode/tree/master/0022-generate-parentheses) |
@@ -87,13 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/joeNeham8/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/joeNeham8/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/joeNeham8/LeetCode/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/joeNeham8/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1013-fibonacci-number](https://github.com/joeNeham8/LeetCode/tree/master/1013-fibonacci-number) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/joeNeham8/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/joeNeham8/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/joeNeham8/LeetCode/tree/master/0049-group-anagrams) |
@@ -105,8 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/joeNeham8/LeetCode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/joeNeham8/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/joeNeham8/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/joeNeham8/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/joeNeham8/LeetCode/tree/master/0075-sort-colors) |
@@ -114,75 +118,75 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/joeNeham8/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/joeNeham8/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/joeNeham8/LeetCode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/joeNeham8/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/joeNeham8/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/joeNeham8/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/joeNeham8/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/joeNeham8/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/joeNeham8/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/joeNeham8/LeetCode/tree/master/0036-valid-sudoku) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/joeNeham8/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/joeNeham8/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/joeNeham8/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/joeNeham8/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/joeNeham8/LeetCode/tree/master/0055-jump-game) |
 | [0768-partition-labels](https://github.com/joeNeham8/LeetCode/tree/master/0768-partition-labels) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/joeNeham8/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/joeNeham8/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/joeNeham8/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/joeNeham8/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/joeNeham8/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/joeNeham8/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/joeNeham8/LeetCode/tree/master/0039-combination-sum) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/joeNeham8/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/joeNeham8/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/joeNeham8/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
