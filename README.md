@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/joeNeham8/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/joeNeham8/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/joeNeham8/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/joeNeham8/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joeNeham8/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/joeNeham8/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/joeNeham8/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/joeNeham8/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/joeNeham8/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/joeNeham8/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/joeNeham8/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/joeNeham8/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/joeNeham8/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0768-partition-labels](https://github.com/joeNeham8/LeetCode/tree/master/0768-partition-labels) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/joeNeham8/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/joeNeham8/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/joeNeham8/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/joeNeham8/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/joeNeham8/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/joeNeham8/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/joeNeham8/LeetCode/tree/master/0347-top-k-frequent-elements) |
